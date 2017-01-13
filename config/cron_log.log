@@ -1,43 +1,10 @@
-/bin/bash: script/runner: No such file or directory
-/bin/bash: script/runner: No such file or directory
-/bin/bash: script/runner: No such file or directory
-/Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/railties-4.2.4/lib/rails/commands/runner.rb:62:in `<top (required)>': uninitialized constant FileRollUtils (NameError)
-	from /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/railties-4.2.4/lib/rails/commands/runner.rb:62:in `eval'
-	from /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/railties-4.2.4/lib/rails/commands/runner.rb:62:in `<top (required)>'
-	from /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/railties-4.2.4/lib/rails/commands/commands_tasks.rb:123:in `require_command!'
-	from /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/railties-4.2.4/lib/rails/commands/commands_tasks.rb:90:in `runner'
-	from /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/railties-4.2.4/lib/rails/commands/commands_tasks.rb:39:in `run_command!'
-	from /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/railties-4.2.4/lib/rails/commands.rb:17:in `<top (required)>'
-	from /Users/jyd-pc005/apps/file_roll/bin/rails:9:in `<top (required)>'
-	from /Users/jyd-pc005/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/rubygems/core_ext/kernel_require.rb:55:in `require'
-	from /Users/jyd-pc005/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/rubygems/core_ext/kernel_require.rb:55:in `require'
-	from -e:1:in `<main>'
-Running via Spring preloader in process 5485
-/Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/railties-4.2.4/lib/rails/commands/runner.rb:62:in `<top (required)>': uninitialized constant FileRollUtils (NameError)
-	from /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/railties-4.2.4/lib/rails/commands/runner.rb:62:in `eval'
-	from /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/railties-4.2.4/lib/rails/commands/runner.rb:62:in `<top (required)>'
-	from /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/railties-4.2.4/lib/rails/commands/commands_tasks.rb:123:in `require_command!'
-	from /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/railties-4.2.4/lib/rails/commands/commands_tasks.rb:90:in `runner'
-	from /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/railties-4.2.4/lib/rails/commands/commands_tasks.rb:39:in `run_command!'
-	from /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/railties-4.2.4/lib/rails/commands.rb:17:in `<top (required)>'
-	from /Users/jyd-pc005/apps/file_roll/bin/rails:9:in `<top (required)>'
-	from /Users/jyd-pc005/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/rubygems/core_ext/kernel_require.rb:55:in `require'
-	from /Users/jyd-pc005/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/rubygems/core_ext/kernel_require.rb:55:in `require'
-	from -e:1:in `<main>'
-Running via Spring preloader in process 5552
-/Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/railties-4.2.4/lib/rails/commands/runner.rb:62:in `<top (required)>': uninitialized constant FileRollUtils (NameError)
-	from /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/railties-4.2.4/lib/rails/commands/runner.rb:62:in `eval'
-	from /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/railties-4.2.4/lib/rails/commands/runner.rb:62:in `<top (required)>'
-	from /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/railties-4.2.4/lib/rails/commands/commands_tasks.rb:123:in `require_command!'
-	from /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/railties-4.2.4/lib/rails/commands/commands_tasks.rb:90:in `runner'
-	from /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/railties-4.2.4/lib/rails/commands/commands_tasks.rb:39:in `run_command!'
-	from /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/railties-4.2.4/lib/rails/commands.rb:17:in `<top (required)>'
-	from /Users/jyd-pc005/apps/file_roll/bin/rails:9:in `<top (required)>'
-	from /Users/jyd-pc005/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/rubygems/core_ext/kernel_require.rb:55:in `require'
-	from /Users/jyd-pc005/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/rubygems/core_ext/kernel_require.rb:55:in `require'
-	from -e:1:in `<main>'
+
 Running via Spring preloader in process 5618
 "指定操作执行，参数为：Hellodd World!!"
 Running via Spring preloader in process 5688
 "指定操作执行，参数为：Hellodd World!!"
-Running via Spring preloader in process 5823
+Running via Spring preloader in process 6084
+"指定操作执行，参数为：Hellodd World!!"
+Running via Spring preloader in process 6156
+"指定操作执行，参数为：Hellodd World!!"
+Running via Spring preloader in process 6224
