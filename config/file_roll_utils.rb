@@ -1,5 +1,11 @@
 module FileRollUtils
 
+
+  # 文件备份
+  # filepath 文件路径
+  # filename 文件名称
+  # max_rotate 回滚上限
+  # rotate_filesize 文件回滚大小上限
   def self.exec_roll(filepath, filename, max_rotate=50,rotate_filesize=0)
 
     log_path = "#{filepath}/#{filename}"
@@ -42,5 +48,12 @@ module FileRollUtils
         File::delete("#{filepath}/#{filename}#{del_fn}.tar.gz")
       end
     end
+  end
+
+
+
+  #demo 工具方法
+  def self.exec_demo(arg)
+    p "指定操作执行，参数为：#{arg}"
   end
 end

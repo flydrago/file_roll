@@ -2,8 +2,7 @@
 #
 # It's helpful, but not entirely necessary to understand cron before proceeding.
 # http://en.wikipedia.org/wiki/Cron
-require File.expand_path(File.dirname(__FILE__) + '/file_roll_utils')
-
+env :PATH, ENV['PATH']
 # Example:
 #
 
@@ -11,8 +10,9 @@ set :output, "#{File.expand_path(File.dirname(__FILE__))}/cron_log.log"
 
 every 2.hours do
 
-  command "echo '清理elephant日志'"
-  FileRollUtils.exec_roll("/Users/jyd-pc005/logs","tomcat8916_bak",10,30)
+  # runner "FileRollUtils.exec_roll(\"\/alidata1\/www\/elephant\/shared\/log\/\",\"production.log\",10,1073741824)"
+
+  runner "FileRollUtils.exec_demo(\"Hello World!!\")"
 end
 
 # every 4.days do
