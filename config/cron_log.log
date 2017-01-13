@@ -8,3 +8,49 @@ Running via Spring preloader in process 6084
 Running via Spring preloader in process 6156
 "指定操作执行，参数为：Hellodd World!!"
 Running via Spring preloader in process 6224
+bundler: failed to load command: bin/rails (bin/rails)
+Bundler::Dsl::DSLError: 
+[!] There was an error parsing `Gemfile`: syntax error, unexpected << - <<<<<<< HEAD
+  ^
+/Users/jyd-pc005/apps/file_roll/Gemfile:49: syntax error, unexpected ===, expecting end-of-input
+=======
+   ^. Bundler cannot continue.
+
+ #  from /Users/jyd-pc005/apps/file_roll/Gemfile:1
+ #  -------------------------------------------
+ >  <<<<<<< HEAD
+ #  source 'https://rubygems.org'
+ #  -------------------------------------------
+
+  /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/bundler-1.12.5/lib/bundler/dsl.rb:39:in `instance_eval'
+  /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/bundler-1.12.5/lib/bundler/dsl.rb:39:in `eval_gemfile'
+  /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/bundler-1.12.5/lib/bundler/dsl.rb:11:in `evaluate'
+  /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/bundler-1.12.5/lib/bundler/definition.rb:25:in `build'
+  /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/bundler-1.12.5/lib/bundler.rb:123:in `definition'
+  /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/bundler-1.12.5/lib/bundler.rb:91:in `setup'
+  /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/bundler-1.12.5/lib/bundler/setup.rb:19:in `<top (required)>'
+  /Users/jyd-pc005/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+  /Users/jyd-pc005/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+bundler: failed to load command: bin/rails (bin/rails)
+Bundler::Dsl::DSLError: 
+[!] There was an error parsing `Gemfile`: syntax error, unexpected << - <<<<<<< HEAD
+  ^
+/Users/jyd-pc005/apps/file_roll/Gemfile:49: syntax error, unexpected ===, expecting end-of-input
+=======
+   ^. Bundler cannot continue.
+
+ #  from /Users/jyd-pc005/apps/file_roll/Gemfile:1
+ #  -------------------------------------------
+ >  <<<<<<< HEAD
+ #  source 'https://rubygems.org'
+ #  -------------------------------------------
+
+  /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/bundler-1.12.5/lib/bundler/dsl.rb:39:in `instance_eval'
+  /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/bundler-1.12.5/lib/bundler/dsl.rb:39:in `eval_gemfile'
+  /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/bundler-1.12.5/lib/bundler/dsl.rb:11:in `evaluate'
+  /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/bundler-1.12.5/lib/bundler/definition.rb:25:in `build'
+  /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/bundler-1.12.5/lib/bundler.rb:123:in `definition'
+  /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/bundler-1.12.5/lib/bundler.rb:91:in `setup'
+  /Users/jyd-pc005/.rvm/gems/ruby-2.3.0/gems/bundler-1.12.5/lib/bundler/setup.rb:19:in `<top (required)>'
+  /Users/jyd-pc005/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+  /Users/jyd-pc005/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/rubygems/core_ext/kernel_require.rb:55:in `require'
