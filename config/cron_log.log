@@ -1,2 +1,278 @@
 "指定操作执行，参数为：Hellodd World!!"
-Running via Spring preloader in process 14612
+Running via Spring preloader in process 17061
+Running via Spring preloader in process 17060
+2017-01-13T18:58:01.168+0800	writing pigeon.system.indexes to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/system.indexes.bson
+2017-01-13T18:58:01.169+0800	done dumping pigeon.system.indexes (1 document)
+2017-01-13T18:58:01.169+0800	writing pigeon.wechat_sessions to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/wechat_sessions.bson
+2017-01-13T18:58:01.170+0800	done dumping pigeon.wechat_sessions (1 document)
+tar: Removing leading '/' from member names
+a Users/jyd-pc005/dbbakdemo//baktemp
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/system.indexes.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.metadata.json
+"侦测到历史归档文件：dbbak_20170113185101.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113185201.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113185301.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113185401.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113185501.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113185600.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113185701.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113185801.tar.gz！"
+"删除过期的归档文件：/Users/jyd-pc005/dbbakdemo//bak/dbbak_20170113185101.tar.gz！"
+"删除过期的归档文件：/Users/jyd-pc005/dbbakdemo//bak/dbbak_20170113185201.tar.gz！"
+"删除过期的归档文件：/Users/jyd-pc005/dbbakdemo//bak/dbbak_20170113185301.tar.gz！"
+"删除过期的归档文件：/Users/jyd-pc005/dbbakdemo//bak/dbbak_20170113185401.tar.gz！"
+"删除过期的归档文件：/Users/jyd-pc005/dbbakdemo//bak/dbbak_20170113185501.tar.gz！"
+Running via Spring preloader in process 17277
+"指定操作执行，参数为：Hellodd World!!"
+2017-01-13T18:59:01.261+0800	writing pigeon.system.indexes to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/system.indexes.bson
+2017-01-13T18:59:01.262+0800	done dumping pigeon.system.indexes (1 document)
+2017-01-13T18:59:01.262+0800	writing pigeon.wechat_sessions to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/wechat_sessions.bson
+2017-01-13T18:59:01.263+0800	done dumping pigeon.wechat_sessions (1 document)
+tar: Removing leading '/' from member names
+a Users/jyd-pc005/dbbakdemo//baktemp
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/system.indexes.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.metadata.json
+"侦测到历史归档文件：dbbak_20170113185600.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113185701.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113185801.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113185901.tar.gz！"
+"删除过期的归档文件：/Users/jyd-pc005/dbbakdemo//bak/dbbak_20170113185600.tar.gz！"
+Running via Spring preloader in process 17278
+"指定操作执行，参数为：Hellodd World!!"
+Running via Spring preloader in process 17417
+Running via Spring preloader in process 17416
+2017-01-13T19:00:01.432+0800	writing pigeon.system.indexes to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/system.indexes.bson
+2017-01-13T19:00:01.433+0800	done dumping pigeon.system.indexes (1 document)
+2017-01-13T19:00:01.433+0800	writing pigeon.wechat_sessions to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/wechat_sessions.bson
+2017-01-13T19:00:01.434+0800	done dumping pigeon.wechat_sessions (1 document)
+tar: Removing leading '/' from member names
+a Users/jyd-pc005/dbbakdemo//baktemp
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/system.indexes.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.metadata.json
+"侦测到历史归档文件：dbbak_20170113185701.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113185801.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113185901.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190001.tar.gz！"
+"删除过期的归档文件：/Users/jyd-pc005/dbbakdemo//bak/dbbak_20170113185701.tar.gz！"
+"指定操作执行，参数为：Hellodd World!!"
+Running via Spring preloader in process 17555
+Running via Spring preloader in process 17554
+2017-01-13T19:01:01.885+0800	writing pigeon.system.indexes to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/system.indexes.bson
+2017-01-13T19:01:01.885+0800	done dumping pigeon.system.indexes (1 document)
+2017-01-13T19:01:01.886+0800	writing pigeon.wechat_sessions to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/wechat_sessions.bson
+2017-01-13T19:01:01.886+0800	done dumping pigeon.wechat_sessions (1 document)
+tar: Removing leading '/' from member names
+a Users/jyd-pc005/dbbakdemo//baktemp
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/system.indexes.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.metadata.json
+"侦测到历史归档文件：dbbak_20170113185801.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113185901.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190001.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190101.tar.gz！"
+"删除过期的归档文件：/Users/jyd-pc005/dbbakdemo//bak/dbbak_20170113185801.tar.gz！"
+Running via Spring preloader in process 17692
+"指定操作执行，参数为：Hellodd World!!"
+Running via Spring preloader in process 17693
+2017-01-13T19:02:01.289+0800	writing pigeon.system.indexes to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/system.indexes.bson
+2017-01-13T19:02:01.290+0800	done dumping pigeon.system.indexes (1 document)
+2017-01-13T19:02:01.305+0800	writing pigeon.wechat_sessions to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/wechat_sessions.bson
+2017-01-13T19:02:01.306+0800	done dumping pigeon.wechat_sessions (1 document)
+tar: Removing leading '/' from member names
+a Users/jyd-pc005/dbbakdemo//baktemp
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/system.indexes.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.metadata.json
+"侦测到历史归档文件：dbbak_20170113185901.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190001.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190101.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190201.tar.gz！"
+"删除过期的归档文件：/Users/jyd-pc005/dbbakdemo//bak/dbbak_20170113185901.tar.gz！"
+"指定操作执行，参数为：Hellodd World!!"
+Running via Spring preloader in process 17831
+Running via Spring preloader in process 17830
+2017-01-13T19:03:07.301+0800	writing pigeon.system.indexes to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/system.indexes.bson
+2017-01-13T19:03:07.302+0800	done dumping pigeon.system.indexes (1 document)
+2017-01-13T19:03:07.302+0800	writing pigeon.wechat_sessions to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/wechat_sessions.bson
+2017-01-13T19:03:07.303+0800	done dumping pigeon.wechat_sessions (1 document)
+tar: Removing leading '/' from member names
+a Users/jyd-pc005/dbbakdemo//baktemp
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/system.indexes.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.metadata.json
+"侦测到历史归档文件：dbbak_20170113190001.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190101.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190201.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190306.tar.gz！"
+"删除过期的归档文件：/Users/jyd-pc005/dbbakdemo//bak/dbbak_20170113190001.tar.gz！"
+"指定操作执行，参数为：Hellodd World!!"
+Running via Spring preloader in process 17970
+Running via Spring preloader in process 17971
+2017-01-13T19:04:08.341+0800	writing pigeon.system.indexes to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/system.indexes.bson
+2017-01-13T19:04:08.341+0800	done dumping pigeon.system.indexes (1 document)
+2017-01-13T19:04:08.341+0800	writing pigeon.wechat_sessions to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/wechat_sessions.bson
+2017-01-13T19:04:08.342+0800	done dumping pigeon.wechat_sessions (1 document)
+tar: Removing leading '/' from member names
+a Users/jyd-pc005/dbbakdemo//baktemp
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/system.indexes.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.metadata.json
+"侦测到历史归档文件：dbbak_20170113190101.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190201.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190306.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190408.tar.gz！"
+"删除过期的归档文件：/Users/jyd-pc005/dbbakdemo//bak/dbbak_20170113190101.tar.gz！"
+Running via Spring preloader in process 18109
+"指定操作执行，参数为：Hellodd World!!"
+2017-01-13T19:05:01.553+0800	writing pigeon.system.indexes to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/system.indexes.bson
+2017-01-13T19:05:01.554+0800	done dumping pigeon.system.indexes (1 document)
+2017-01-13T19:05:01.554+0800	writing pigeon.wechat_sessions to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/wechat_sessions.bson
+2017-01-13T19:05:01.555+0800	done dumping pigeon.wechat_sessions (1 document)
+tar: Removing leading '/' from member names
+a Users/jyd-pc005/dbbakdemo//baktemp
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/system.indexes.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.metadata.json
+"侦测到历史归档文件：dbbak_20170113190201.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190306.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190408.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190501.tar.gz！"
+"删除过期的归档文件：/Users/jyd-pc005/dbbakdemo//bak/dbbak_20170113190201.tar.gz！"
+Running via Spring preloader in process 18110
+Running via Spring preloader in process 18250
+"指定操作执行，参数为：Hellodd World!!"
+2017-01-13T19:06:01.697+0800	writing pigeon.system.indexes to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/system.indexes.bson
+2017-01-13T19:06:01.697+0800	done dumping pigeon.system.indexes (1 document)
+2017-01-13T19:06:01.698+0800	writing pigeon.wechat_sessions to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/wechat_sessions.bson
+2017-01-13T19:06:01.698+0800	done dumping pigeon.wechat_sessions (1 document)
+tar: Removing leading '/' from member names
+a Users/jyd-pc005/dbbakdemo//baktemp
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/system.indexes.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.metadata.json
+"侦测到历史归档文件：dbbak_20170113190306.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190408.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190501.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190601.tar.gz！"
+"删除过期的归档文件：/Users/jyd-pc005/dbbakdemo//bak/dbbak_20170113190306.tar.gz！"
+Running via Spring preloader in process 18251
+Running via Spring preloader in process 18391
+"指定操作执行，参数为：Hellodd World!!"
+Running via Spring preloader in process 18392
+2017-01-13T19:07:02.184+0800	writing pigeon.system.indexes to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/system.indexes.bson
+2017-01-13T19:07:02.184+0800	done dumping pigeon.system.indexes (1 document)
+2017-01-13T19:07:02.185+0800	writing pigeon.wechat_sessions to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/wechat_sessions.bson
+2017-01-13T19:07:02.185+0800	done dumping pigeon.wechat_sessions (1 document)
+tar: Removing leading '/' from member names
+a Users/jyd-pc005/dbbakdemo//baktemp
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/system.indexes.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.metadata.json
+"侦测到历史归档文件：dbbak_20170113190408.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190501.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190601.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190701.tar.gz！"
+"删除过期的归档文件：/Users/jyd-pc005/dbbakdemo//bak/dbbak_20170113190408.tar.gz！"
+"指定操作执行，参数为：Hellodd World!!"
+Running via Spring preloader in process 18529
+Running via Spring preloader in process 18530
+2017-01-13T19:08:06.786+0800	writing pigeon.system.indexes to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/system.indexes.bson
+2017-01-13T19:08:06.787+0800	done dumping pigeon.system.indexes (1 document)
+2017-01-13T19:08:06.787+0800	writing pigeon.wechat_sessions to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/wechat_sessions.bson
+2017-01-13T19:08:06.788+0800	done dumping pigeon.wechat_sessions (1 document)
+tar: Removing leading '/' from member names
+a Users/jyd-pc005/dbbakdemo//baktemp
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/system.indexes.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.metadata.json
+"侦测到历史归档文件：dbbak_20170113190501.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190601.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190701.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190806.tar.gz！"
+"删除过期的归档文件：/Users/jyd-pc005/dbbakdemo//bak/dbbak_20170113190501.tar.gz！"
+Running via Spring preloader in process 18669
+"指定操作执行，参数为：Hellodd World!!"
+Running via Spring preloader in process 18670
+2017-01-13T19:09:07.390+0800	writing pigeon.system.indexes to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/system.indexes.bson
+2017-01-13T19:09:07.391+0800	done dumping pigeon.system.indexes (1 document)
+2017-01-13T19:09:07.391+0800	writing pigeon.wechat_sessions to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/wechat_sessions.bson
+2017-01-13T19:09:07.393+0800	done dumping pigeon.wechat_sessions (1 document)
+tar: Removing leading '/' from member names
+a Users/jyd-pc005/dbbakdemo//baktemp
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/system.indexes.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.metadata.json
+"侦测到历史归档文件：dbbak_20170113190601.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190701.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190806.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190907.tar.gz！"
+"删除过期的归档文件：/Users/jyd-pc005/dbbakdemo//bak/dbbak_20170113190601.tar.gz！"
+"指定操作执行，参数为：Hellodd World!!"
+Running via Spring preloader in process 18809
+Running via Spring preloader in process 18808
+2017-01-13T19:10:07.022+0800	writing pigeon.system.indexes to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/system.indexes.bson
+2017-01-13T19:10:07.023+0800	done dumping pigeon.system.indexes (1 document)
+2017-01-13T19:10:07.023+0800	writing pigeon.wechat_sessions to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/wechat_sessions.bson
+2017-01-13T19:10:07.023+0800	done dumping pigeon.wechat_sessions (1 document)
+tar: Removing leading '/' from member names
+a Users/jyd-pc005/dbbakdemo//baktemp
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/system.indexes.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.metadata.json
+"侦测到历史归档文件：dbbak_20170113190701.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190806.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190907.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113191006.tar.gz！"
+"删除过期的归档文件：/Users/jyd-pc005/dbbakdemo//bak/dbbak_20170113190701.tar.gz！"
+"指定操作执行，参数为：Hellodd World!!"
+Running via Spring preloader in process 18947
+Running via Spring preloader in process 18946
+2017-01-13T19:11:01.120+0800	writing pigeon.system.indexes to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/system.indexes.bson
+2017-01-13T19:11:01.121+0800	done dumping pigeon.system.indexes (1 document)
+2017-01-13T19:11:01.121+0800	writing pigeon.wechat_sessions to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/wechat_sessions.bson
+2017-01-13T19:11:01.121+0800	done dumping pigeon.wechat_sessions (1 document)
+tar: Removing leading '/' from member names
+a Users/jyd-pc005/dbbakdemo//baktemp
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/system.indexes.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.metadata.json
+"侦测到历史归档文件：dbbak_20170113190806.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113190907.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113191006.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113191101.tar.gz！"
+"删除过期的归档文件：/Users/jyd-pc005/dbbakdemo//bak/dbbak_20170113190806.tar.gz！"
+Running via Spring preloader in process 19159
+"指定操作执行，参数为：Hellodd World!!"
+Running via Spring preloader in process 19160
+2017-01-13T19:12:01.273+0800	writing pigeon.system.indexes to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/system.indexes.bson
+2017-01-13T19:12:01.274+0800	done dumping pigeon.system.indexes (1 document)
+2017-01-13T19:12:01.274+0800	writing pigeon.wechat_sessions to /Users/jyd-pc005/dbbakdemo/baktemp/pigeon/wechat_sessions.bson
+2017-01-13T19:12:01.274+0800	done dumping pigeon.wechat_sessions (1 document)
+tar: Removing leading '/' from member names
+a Users/jyd-pc005/dbbakdemo//baktemp
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/system.indexes.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.bson
+a Users/jyd-pc005/dbbakdemo//baktemp/pigeon/wechat_sessions.metadata.json
+"侦测到历史归档文件：dbbak_20170113190907.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113191006.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113191101.tar.gz！"
+"侦测到历史归档文件：dbbak_20170113191201.tar.gz！"
+"删除过期的归档文件：/Users/jyd-pc005/dbbakdemo//bak/dbbak_20170113190907.tar.gz！"

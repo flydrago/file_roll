@@ -23,7 +23,7 @@ class FileRollUtils
 
     #归档并清空源文件
     if !system "tar -czvf #{filepath}/#{filename}#{Time.now.strftime("%Y%m%d%H%M%S")}.tar.gz #{log_path} ; echo '' > #{log_path} "
-      p "备份文件失败！"
+      p"备份文件失败！"
     end
 
     #侦测历史归档文件列表
@@ -46,6 +46,7 @@ class FileRollUtils
     else
       delete_files.each do |del_fn|
         File::delete("#{filepath}/#{filename}#{del_fn}.tar.gz")
+        p "删除过期的归档文件：#{filepath}/#{filename}#{del_fn}.tar.gz！"
       end
     end
   end
@@ -85,7 +86,7 @@ class FileRollUtils
     #清空临时备份目录
     clean_baktemp_sh = "rm -rf #{bak_path}/baktemp/*"
 
-    if !system create_dir_sh && dbbak_sh && tar_sh && clean_baktemp_sh
+    if !system "#{create_dir_sh} && #{dbbak_sh} && #{tar_sh} && #{clean_baktemp_sh}"
       p "备份数据库文件失败！"
       return
     end
@@ -109,7 +110,8 @@ class FileRollUtils
       p "没有过期的归档文件"
     else
       delete_files.each do |del_fn|
-        File::delete("#{bak_path}/#{bakfile_prefix}#{del_fn}.tar.gz")
+        File::delete("#{bak_path}/bak/#{bakfile_prefix}#{del_fn}.tar.gz")
+        p "删除过期的归档文件：#{bak_path}/bak/#{bakfile_prefix}#{del_fn}.tar.gz！"
       end
     end
 
